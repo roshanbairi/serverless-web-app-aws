@@ -17,13 +17,8 @@ In this project, you will build a serverless web application using AWS Lambda, D
 * Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). \
 * Create a CloudFront distribution to serve the S3-hosted static files with low latency. \
 
-### Expected Outcome:
 
-Upon completing the project, you will have a working serverless web application hosted on AWS. \
-You will have hands-on experience building a serverless application using AWS Lambda, DynamoDB, S3, CloudFront. \
-Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
 
-This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
 
 
 
